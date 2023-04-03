@@ -1,0 +1,27 @@
+
+
+
+Test Case 1: Kayıt oluşturma
+• Siteye Git.
+• “Sign Up” tıklat.
+• “Ad new User” altındaki açılan formu eksiksiz doldur.
+• Submit butonuna tıklat.
+• Başarılı bir şekilde kayıt oluşturduğunuzu doğrulayın.
+
+
+
+Test Case 2: Giriş Yapma
+• Siteye git.
+• “Login” butonuna tıklat.
+• Oluşturmuş olduğunuz username ve password’u gir.
+• Login Butonuna tıklat
+• Siteye giriş yaptığınızı doğrulayın.
+
+
+Test Case 3: Yeni Müşteri Oluşturma
+• Siteye git.
+• Siteye giriş yap
+• “CREATE NEW” Butonuna tıklat.
+• Customer altındaki formu doldur.
+• Create Butonuna tıklat
+• doğrulama yapın
